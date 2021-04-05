@@ -1,4 +1,4 @@
-package de.nikora.tasks;
+package de.nikora.tasks.task1;
 
 import java.util.Scanner;
 
